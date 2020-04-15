@@ -16,5 +16,3 @@ def state_log(date)
   "Captain's Log, star date #{date}."
   binding.pry
 end
-
-
